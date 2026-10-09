@@ -1,4 +1,4 @@
-// ========== HTML СТРАНИЦА (с WebSocket на порту 81) ==========
+// ========== HTML СТРАНИЦА (с WebSocket на порту 81) ===========
 const char MAIN_page[] PROGMEM = R"=====(
 <!DOCTYPE html>
 <head>
